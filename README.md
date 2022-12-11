@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bogdan Bogdanovic, the author of https://bbtools.shop/
+- 👋 Hi, I’m [Bogdan Bogdanovic](https://bogdan-bogdanovic.com/)
 - 👀 I love coding and solving problems. It makes me even happier when I'm able to solve a problem about software for someone else.
 - 🌱 I’m currently learning javascript, html, css and React.js.
 
